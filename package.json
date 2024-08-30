@@ -7,13 +7,13 @@
   "author": {
     "name": "hieki chan",
     "email": "hieuca205@gmail.com",
-    "url": "https://github.com/hieki-chan/unity-search-fuzzy"
+    "url": "https://github.com/hieki-chan/simplest-pubsub-ever"
   },
   "samples": [
     {
       "displayName": "Sample Usage",
       "description": "Sample Pusub",
-      "path": "Sample"
+      "path": "Sample~"
     }
   ]
 }
