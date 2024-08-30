@@ -1,7 +1,7 @@
 {
   "name": "com.hieki.simplest-pubsub-ever",
   "version": "1.0.0",
-  "displayName": "Pubsub",
+  "displayName": "Simplest Pubsub Ever",
   "description": "A super simple, lightweight, and fast PubSub pattern for Unity.",
   "unity": "2022.3",
   "author": {
