@@ -1,0 +1,19 @@
+{
+  "name": "com.hieki.simplest-pubsub-ever",
+  "version": "1.0.0",
+  "displayName": "Pubsub",
+  "description": "A super simple, lightweight, and fast PubSub pattern for Unity.",
+  "unity": "2022.3",
+  "author": {
+    "name": "hieki chan",
+    "email": "hieuca205@gmail.com",
+    "url": "https://github.com/hieki-chan/simplest-pubsub-ever"
+  },
+  "samples": [
+    {
+      "displayName": "Sample Usage",
+      "description": "Sample Pusub",
+      "path": "Sample~"
+    }
+  ]
+}
