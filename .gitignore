@@ -74,3 +74,6 @@ crashlytics-build.properties
 /Resources.meta
 /[Ss]cenes
 /Scenes.meta
+/LICENSE.meta
+/README.md.meta
+/com.hieki.simplest-pubsub-ever.meta
